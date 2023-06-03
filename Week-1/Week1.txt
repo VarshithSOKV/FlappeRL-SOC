@@ -1,0 +1,6 @@
+Week1 tasks was to recap "Python" and Learn about "Git", "Github", "Terminal Command lines."
+
+Next task was to solve a problem on Markov chains using python, which is basic foundation for 
+"Reinforcement learning (RL)"
+
+I have completed the task, and also took suggestions from my mentors for improvement.
