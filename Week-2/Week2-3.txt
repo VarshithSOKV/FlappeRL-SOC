@@ -1,0 +1,17 @@
+Week 2-3 tasks was to learn basics of Reinforcement learning,
+
+ - starting with terminology such as agent, reward, state, policy etc..
+
+ - calculating value of the state by Bellman equations
+
+ - iterative methods such as Policy iteration and Value iteration
+
+Next task was to solve 2 problems based on learnt iterative methods,
+
+ - First was an MDP whose policy was given and Value function hws to be found 
+   using Value iteration method.
+
+ - Second was a Maze problem whose wall position and start, destination were given.
+   And optimal policy or optimal path has to be found.
+
+I have completed this task too, but a bit late and took suggestions for mentors.
